@@ -18,9 +18,9 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) <img src="https://img.shields.io/badge/-pytorch-05122A?style=flat&logo=pytorch"/> <img src="https://img.shields.io/badge/-tensorflow-05122A?style=flat&logo=tensorflow"/> <img src="https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas"/> <img src="https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy"/> <img src="https://img.shields.io/badge/-sklearn-05122A?style=flat&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/-selenium-05122A?style=flat&logo=selenium"/> <img src="https://img.shields.io/badge/-gcp-05122A?style=flat&logo=google-cloud"/>
-<img src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github"/> <img src="https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab"/> <img src="https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu"/> 
-<img src="https://img.shields.io/badge/-slack-05122A?style=flat&logo=slack"/> <img src="https://img.shields.io/badge/-notion-05122A?style=flat&logo=notion"/>
+<img src="https://img.shields.io/badge/-selenium-05122A?style=flat&logo=selenium"/>  
+<img src="https://img.shields.io/badge/-gcp-05122A?style=flat&logo=google-cloud"/>
+<img src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github"/> <img src="https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab"/> <img src="https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu"/> <img src="https://img.shields.io/badge/-slack-05122A?style=flat&logo=slack"/> <img src="https://img.shields.io/badge/-notion-05122A?style=flat&logo=notion"/> <img src="https://img.shields.io/badge/-vscode-05122A?style=flat&logo=visual-studio-code"/>
 
 ## :trophy: Contest
 - [A2C, A4C view에서의 좌심실 분할 AI모델 개발](https://github.com/pminhyung/ventricates-segmentation-pytorch)
