@@ -23,7 +23,7 @@
 ## 🏃: Competitions
 - [A2C, A4C view에서의 좌심실 분할 AI모델 개발](https://github.com/pminhyung/ventricates-segmentation-pytorch)
 - [빅콘테스트 NS SHOP+ 판매실적 예측을 통한 편성 최적화 방안(모형) 도출](https://github.com/pminhyung/homeshopping-sales-prediction)
-- [2021 한국어 질의응답 AI 경진대회: 비디오 네러티브 질의응답 태스크]
+- [2021 한국어 질의응답 AI 경진대회: 비디오 네러티브 질의응답 태스크]()
 
 ## 🎇 개인 Project
 - [크라우드 펀딩 성공요인 분석과 달성률 예측모델 개발](https://github.com/pminhyung/crowdfunding-prediction)
