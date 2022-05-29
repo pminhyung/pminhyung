@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/badge/-gcp-05122A?style=flat&logo=google-cloud"/>
 <img src="https://img.shields.io/badge/-github-05122A?style=flat&logo=github"/> <img src="https://img.shields.io/badge/-gitlab-05122A?style=flat&logo=gitlab"/> <img src="https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu"/> <img src="https://img.shields.io/badge/-slack-05122A?style=flat&logo=slack"/> <img src="https://img.shields.io/badge/-notion-05122A?style=flat&logo=notion"/> <img src="https://img.shields.io/badge/-vscode-05122A?style=flat&logo=visual-studio-code"/>
 
-## :trophy: Contest
+## 🏃: Competitions
 - [A2C, A4C view에서의 좌심실 분할 AI모델 개발](https://github.com/pminhyung/ventricates-segmentation-pytorch)
-- [2021 한국어 질의응답 AI 경진대회: 비디오 네러티브 질의응답 태스크](https://github.com/pminhyung/video-question-answering-korean-pytorch)
 - [빅콘테스트 NS SHOP+ 판매실적 예측을 통한 편성 최적화 방안(모형) 도출](https://github.com/pminhyung/homeshopping-sales-prediction)
+- [2021 한국어 질의응답 AI 경진대회: 비디오 네러티브 질의응답 태스크]
 
 ## 🎇 개인 Project
 - [크라우드 펀딩 성공요인 분석과 달성률 예측모델 개발](https://github.com/pminhyung/crowdfunding-prediction)
