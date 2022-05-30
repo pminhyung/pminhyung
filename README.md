@@ -1,7 +1,6 @@
 # 👋🏻 안녕하세요!  ML Engineer 박민형(Jason Park) 입니다
 
-[Resume 보기](https://bit.ly/3t8ESg6)  
-[Portfolio 보기](https://bit.ly/3JRKEsD)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pminhyung)
 
 ## 😀ML을 대하는 저의 특성은!
 - 주어진 Task를 해결하는 과정에서 데이터 및 모델 분석, 아이디어 구현, 실험을 통해 문제를 해결하고 성장하는 것을 즐깁니다  
