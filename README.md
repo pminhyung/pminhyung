@@ -1,11 +1,17 @@
 # 👋🏻 안녕하세요!  ML Engineer 박민형(Jason Park) 입니다
 
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pminhyung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<h3 align="center">Backjoon Online Judge</h3>
+<div align="center">
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=pminhyung12)](https://solved.ac/pminhyung12)
+</div>
 
 ## 😀ML을 대하는 저의 특성은!
 - 주어진 Task를 해결하는 과정에서 데이터 및 모델 분석, 아이디어 구현, 실험을 통해 문제를 해결하고 성장하는 것을 즐깁니다  
@@ -45,6 +51,7 @@
 |-----------|-----------------------------------------------------|
 | 2020.03 ~ 2022.02 | 성균관대학교 인공지능융합학과 석사 졸업   |
 | 2015.03 ~ 2020.02 | 중앙대학교 졸업                             |
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 <img src="https://img.shields.io/badge/-pminhyung12@gmail.com-05122A?style=flat&logo=gmail"/>
