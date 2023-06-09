@@ -1,5 +1,13 @@
-# 👋🏻 안녕하세요!  ML Engineer 박민형(Jason Park) 입니다
+# 👋🏻 안녕하세요!  NLP Researcher 박민형(Jason Park) 입니다
 
+<div align=center>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-park-8b72a5198/)](https://www.linkedin.com/in/jason-park-8b72a5198) 
+[![Research Gate Badge](https://img.shields.io/badge/-Research%20Gate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Min-Park-47/)](https://www.researchgate.net/profile/Min-Park-47/) 
+[![Tistory Badge](https://img.shields.io/badge/-Tech%20Blog-d14836?style=flat-square&logo=Tistory&logoColor=white&link=https://matthew0633.tistory.com/)](https://matthew0633.tistory.com/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pminhyung12@gmail.com)](mailto:pminhyung12@gmail.com) 
+
+</div>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
@@ -18,9 +26,12 @@
 - 데이터에 대한 직관과 문제해결력을 기르기 위해 대회나 프로젝트 실험에서의 성공 및 실패에 대해 분석합니다  
 - 다음 Task 수행에서의 더 나은 실험과 접근을 위해 실험에서의 부족했던 배경지식에 대해 조사하여 Notion의 WrapUp Report에 정리합니다  
 
-## 👏🏻간략한 저의 경험은!
-- 대학원에서는 Social Data를 바탕으로 한 Data Mining 및 Prediction 에 관한 연구를 수행하고 논문을 작성했습니다
-- 현재 직장에서는 Text Classfication, Text Retrieval 관련 모델 개발 업무를 담당하고 있습니다
+## 👏🏻간략한 저의 경험은! 
+[LinkedIn](https://www.linkedin.com/in/jason-park-8b72a5198/)
+- 현재 KT 의 LARGE AI 모델인 믿:음(Mi:Dm) 개발 부서에서 자연어처리 연구 및 개발 업무를 수행합니다.
+- LG AI Research 에서 LARGE AI 모델인 EXAONE 개발 인턴직을 수행했습니다
+- 국내 SCM 솔루션 1위 기입 [EMRO](http://www.emro.co.kr/2017/kr/press.html) 에서 Text Classfication, Text Retrieval 관련 모델 개발 업무를 담당하고 있습니다
+- 대학원에서는 Text Data Mining 및 Prediction 에 관한 연구를 수행하고 논문을 작성했습니다
 - Regression, Image Segmentation, Multimodal task 관련 대회 참여 경험이 있습니다
 
 ## 🛠 &nbsp;Tech Stack
@@ -41,9 +52,7 @@
 - [네이버 웹툰 개인화 추천시스템](https://github.com/pminhyung/naver-webtoon-recommendation-system)
 
 ## 🔖 Research Paper
-1. Kim, J. H., Park, M. H., Kim, Y., Nan, D., & Travieso, F. (2021). Relation Between News Topics and Variations in Pharmaceutical Indices During COVID-19 Using a Generalized Dirichlet-Multinomial Regression (g-DMR) Model. *KSII Transactions on Internet & Information Systems*, *15*(5). (SCIE)
-2. Park, M. H. The CBOE Volatility Index Forecasting with Twitter Sentiment Analysis data under COVID-19: An Integrated BiLSTM-ARIMA-GARCH Model (Master Thesis)
-3. 박민형, 김장현, 코로나 전후 주택 정책 영향에 따른 주택매매시장 네트워크 변화 연구 : 수도권 아파트를 중심으로. (2021).  2021 한국인터넷정보학회 춘계학술대회
+(상단에 'Research Gate' 로고를 클릭해주세요)
 
 ## 📚 Education
 
@@ -51,7 +60,3 @@
 |-----------|-----------------------------------------------------|
 | 2020.03 ~ 2022.02 | 성균관대학교 인공지능융합학과 석사 졸업   |
 | 2015.03 ~ 2020.02 | 중앙대학교 졸업                             |
-
-
-### 🤝🏻 &nbsp;Connect with Me
-<img src="https://img.shields.io/badge/-pminhyung12@gmail.com-05122A?style=flat&logo=gmail"/>
